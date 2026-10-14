@@ -36,8 +36,57 @@ async function loadServerInfo() {
   }
 }
 
+// Admin Authentication helpers
+function checkAdminAuth() {
+  return sessionStorage.getItem('quizflow_admin_auth') === 'true';
+}
+
+function openAdminLoginModal() {
+  const modal = document.getElementById('admin-login-modal');
+  const errorEl = document.getElementById('admin-login-error');
+  if (errorEl) errorEl.classList.add('hidden');
+  modal.classList.remove('hidden');
+  modal.classList.add('flex');
+}
+
+function closeAdminLoginModal() {
+  const modal = document.getElementById('admin-login-modal');
+  modal.classList.add('hidden');
+  modal.classList.remove('flex');
+}
+
+function handleAdminLogin(e) {
+  e.preventDefault();
+  const user = document.getElementById('admin-login-user').value.trim();
+  const pass = document.getElementById('admin-login-pass').value.trim();
+
+  // Credenciales de Administrador: admin / admin123
+  if (user === 'admin' && pass === 'admin123') {
+    sessionStorage.setItem('quizflow_admin_auth', 'true');
+    closeAdminLoginModal();
+    executeSwitchView('admin-view');
+  } else {
+    document.getElementById('admin-login-error').classList.remove('hidden');
+  }
+}
+
+function handleAdminLogout() {
+  if (confirm('¿Desea cerrar la sesión de administrador?')) {
+    sessionStorage.removeItem('quizflow_admin_auth');
+    executeSwitchView('quiz-view');
+  }
+}
+
 // Switch main view
 function switchView(viewId) {
+  if (viewId === 'admin-view' && !checkAdminAuth()) {
+    openAdminLoginModal();
+    return;
+  }
+  executeSwitchView(viewId);
+}
+
+function executeSwitchView(viewId) {
   document.getElementById('quiz-view').classList.add('hidden');
   document.getElementById('results-view').classList.add('hidden');
   document.getElementById('admin-view').classList.add('hidden');
