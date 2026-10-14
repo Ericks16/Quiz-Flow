@@ -1,0 +1,602 @@
+[
+  {
+    "id": "sub-1792012377897-156",
+    "quizId": "seguridad-incendios-rtm",
+    "quizTitle": "EXAMEN DE SEGURIDAD CONTRA INCENDIOS",
+    "submittedAt": "2026-10-14T21:12:57.897Z",
+    "participantInfo": {
+      "empresa": "EPN",
+      "fecha": "2026-10-14",
+      "nombre": "Erick ",
+      "cedula": "'0210210",
+      "cargo": "qwqwasd",
+      "correo": "bastian.rodri716@gmail.com"
+    },
+    "score": 4.5,
+    "maxScore": 10,
+    "percentage": 45,
+    "correctCount": 1,
+    "incorrectCount": 9,
+    "isApproved": false,
+    "questionResults": [
+      {
+        "questionId": "q1",
+        "number": 1,
+        "prompt": "Indique 3 factores de seguridad que debe observar para prevención de incendio",
+        "type": "text_multi",
+        "maxPoints": 1,
+        "earnedPoints": 0.5,
+        "isCorrect": false,
+        "userAnswer": [
+          "Mayor concentración de combustible",
+          "",
+          ""
+        ],
+        "correctSampleAnswer": "a) Salidas de emergencia\nb) Ubicación de extintores / PH / GCI\nc) Mayor concentración de combustible",
+        "explanation": "Se debe identificar salidas de emergencia despejadas, ubicación de extintores y control de acumulación de materiales combustibles.",
+        "reviewDetails": "Respuestas registradas. Claves sugeridas: salida, emergencia, extintor, ph"
+      },
+      {
+        "questionId": "q2",
+        "number": 2,
+        "prompt": "¿Qué elementos se necesita para formar el triángulo del fuego?",
+        "type": "text_multi",
+        "maxPoints": 1,
+        "earnedPoints": 0.5,
+        "isCorrect": false,
+        "userAnswer": [
+          "Mayor concentración de combustible",
+          "",
+          ""
+        ],
+        "correctSampleAnswer": "1- Oxígeno, 2- Combustible, 3- Calor",
+        "explanation": "El triángulo del fuego está formado por tres componentes fundamentales: Oxígeno, Combustible y Calor.",
+        "reviewDetails": "Respuestas registradas. Claves sugeridas: oxigeno, oxígeno, combustible, calor"
+      },
+      {
+        "questionId": "q3",
+        "number": 3,
+        "prompt": "Enumere 3 fuentes (causas) de calor",
+        "type": "text_multi",
+        "maxPoints": 1,
+        "earnedPoints": 0.5,
+        "isCorrect": false,
+        "userAnswer": [
+          "Mayor concentración de combustible",
+          "",
+          ""
+        ],
+        "correctSampleAnswer": "1- Eléctricas, 2- Mecánicas, 3- Químicas",
+        "explanation": "Las principales fuentes de calor son eléctricas (cortocircuitos, sobrecargas), mecánicas (fricción) y químicas (reacciones exotérmicas).",
+        "reviewDetails": "Respuestas registradas. Claves sugeridas: electrica, eléctrica, mecanica, mecánica"
+      },
+      {
+        "questionId": "q4",
+        "number": 4,
+        "prompt": "¿Puedo usar agua para combatir fuegos de causas eléctricas? Justifique su respuesta.",
+        "type": "text_single",
+        "maxPoints": 1,
+        "earnedPoints": 0,
+        "isCorrect": false,
+        "userAnswer": "Mayor concentración de combustible",
+        "correctSampleAnswer": "No, porque el agua es conductor de electricidad y causa electrocución.",
+        "explanation": "NUNCA se debe usar agua en equipos energizados porque el agua conduce la corriente y provocaría electrocución.",
+        "reviewDetails": "Conceptos clave esperados: no, conductor, conduce, electricidad"
+      },
+      {
+        "questionId": "q5",
+        "number": 5,
+        "prompt": "Describa las tres clases de combustibles, indique 2 ejemplos de cada uno:",
+        "type": "text_multi",
+        "maxPoints": 1,
+        "earnedPoints": 0.5,
+        "isCorrect": false,
+        "userAnswer": [
+          "Mayor concentración de combustible",
+          "",
+          ""
+        ],
+        "correctSampleAnswer": "a) A Sólidos: Madera, papel, cartón.\nb) B Líquidos y gases inflamables: Tiner, gasolina.\nc) C Eléctricos: Computadores, plancha.",
+        "explanation": "Clase A: Sólidos combustibles ordinarios. Clase B: Líquidos y gases inflamables. Clase C: Equipos eléctricos energizados.",
+        "reviewDetails": "Respuestas registradas. Claves sugeridas: solido, sólido, madera, papel"
+      },
+      {
+        "questionId": "q6",
+        "number": 6,
+        "prompt": "Indique las 4 reglas de un Plan de Emergencia General",
+        "type": "text_multi",
+        "maxPoints": 1,
+        "earnedPoints": 0.5,
+        "isCorrect": false,
+        "userAnswer": [
+          "Mayor concentración de combustible",
+          "",
+          "",
+          "v"
+        ],
+        "correctSampleAnswer": "1) Mantener la calma y dar la voz de alarma\n2) Llamar al 911\n3) Usar extintores\n4) Evacuar ordenadamente",
+        "explanation": "Las 4 fases inmediatas: Calma/Alarma, Llamada de socorro (911), Mitigación inicial si es seguro, y Evacuación al punto de encuentro.",
+        "reviewDetails": "Respuestas registradas. Claves sugeridas: calma, alarma, 911, bomberos"
+      },
+      {
+        "questionId": "q7",
+        "number": 7,
+        "prompt": "¿En qué tiempo se reproduce el fuego en temperatura, volumen e intensidad?",
+        "type": "fill_blank",
+        "maxPoints": 1,
+        "earnedPoints": 1,
+        "isCorrect": true,
+        "userAnswer": "12",
+        "correctSampleAnswer": "2",
+        "explanation": "El fuego en condiciones adecuadas duplica su temperatura e intensidad aproximadamente cada 2 segundos.",
+        "reviewDetails": "Respuesta correcta: 12"
+      },
+      {
+        "questionId": "q8",
+        "number": 8,
+        "prompt": "Los extintores en POLVO QUÍMICO SECO: (Seleccione SI o NO para cada afirmación)",
+        "type": "grid_radio",
+        "maxPoints": 1,
+        "earnedPoints": 0.5,
+        "isCorrect": false,
+        "userAnswer": {
+          "manometro": "SI",
+          "corneta": "SI",
+          "clase_abc": "SI",
+          "elimina_brasa": ""
+        },
+        "correctSampleAnswer": "",
+        "explanation": "Los extintores de polvo químico seco tienen manómetro indicador de presión, manguera con boquilla (no corneta), son polivalentes ABC y sofocan la brasa.",
+        "reviewDetails": "Tienen manómetro: SI ✔ | Tiene corneta: SI ❌ (Correcto: NO) | Es para fuegos clase ABC: SI ✔ | Elimina la brasa: (sin marcar) ❌ (Correcto: SI)"
+      },
+      {
+        "questionId": "q9",
+        "number": 9,
+        "prompt": "Extintor de CO2 (Dióxido de Carbono): (Seleccione SI o NO para cada afirmación)",
+        "type": "grid_radio",
+        "maxPoints": 1,
+        "earnedPoints": 0,
+        "isCorrect": false,
+        "userAnswer": {
+          "corneta": "NO",
+          "dana_equipos": "SI",
+          "clase_bc": "NO"
+        },
+        "correctSampleAnswer": "",
+        "explanation": "El extintor de CO2 tiene una corneta difusora para evitar congelamiento de la piel, NO daña equipos electrónicos (es gas limpio) y es idóneo para fuegos B y C.",
+        "reviewDetails": "Tiene corneta difusora: NO ❌ (Correcto: SI) | Daña equipos electrónicos: SI ❌ (Correcto: NO) | Es para fuegos clase BC: NO ❌ (Correcto: SI)"
+      },
+      {
+        "questionId": "q10",
+        "number": 10,
+        "prompt": "¿Qué significan las siglas \"HAPA\" de operación de extintor?",
+        "type": "text_multi",
+        "maxPoints": 1,
+        "earnedPoints": 0.5,
+        "isCorrect": false,
+        "userAnswer": [
+          "Mayor concentración de combustible",
+          "",
+          "",
+          ""
+        ],
+        "correctSampleAnswer": "H: Halar (el pasador o seguro)\nA: Apuntar (a la base del fuego)\nP: Presionar (la palanca o percutor)\nA: Abanicar (de lado a lado)",
+        "explanation": "HAPA: Halar el seguro, Apuntar a la base de la llama, Presionar el percutor, Abanicar en abanico horizontal.",
+        "reviewDetails": "Respuestas registradas. Claves sugeridas: halar, apuntar, presionar, abanicar"
+      },
+      {
+        "questionId": "q11",
+        "number": 11,
+        "prompt": "¿Cómo calificaría el presente seminario y capacitación? (Haga un breve comentario)",
+        "type": "feedback",
+        "maxPoints": 0,
+        "earnedPoints": 0,
+        "isCorrect": true,
+        "userAnswer": "Mayor concentración de combustible (Calificación: 5/5 estrellas)",
+        "correctSampleAnswer": "",
+        "explanation": "Sección de retroalimentación de los participantes para mejora continua.",
+        "reviewDetails": "Comentario registrado. No aplica puntuación."
+      }
+    ]
+  },
+  {
+    "id": "sub-1792012095859-201",
+    "quizId": "seguridad-incendios-rtm",
+    "quizTitle": "EXAMEN DE SEGURIDAD CONTRA INCENDIOS",
+    "submittedAt": "2026-10-14T21:08:15.859Z",
+    "participantInfo": {
+      "empresa": "DEMO S.A.",
+      "fecha": "2026-10-14",
+      "nombre": "Carlos Mendoza",
+      "cedula": "1712345678",
+      "cargo": "Operador de Planta",
+      "correo": "carlos@demo.com"
+    },
+    "score": 10,
+    "maxScore": 10,
+    "percentage": 100,
+    "correctCount": 10,
+    "incorrectCount": 0,
+    "isApproved": true,
+    "questionResults": [
+      {
+        "questionId": "q1",
+        "number": 1,
+        "prompt": "Indique 3 factores de seguridad que debe observar para prevención de incendio",
+        "type": "text_multi",
+        "maxPoints": 1,
+        "earnedPoints": 1,
+        "isCorrect": true,
+        "userAnswer": [
+          "Salidas de emergencia",
+          "Extintores PH GCI",
+          "Combustible concentrado"
+        ],
+        "correctSampleAnswer": "a) Salidas de emergencia\nb) Ubicación de extintores / PH / GCI\nc) Mayor concentración de combustible",
+        "explanation": "Se debe identificar salidas de emergencia despejadas, ubicación de extintores y control de acumulación de materiales combustibles.",
+        "reviewDetails": "Acierto: 3 respuestas válidas registradas."
+      },
+      {
+        "questionId": "q2",
+        "number": 2,
+        "prompt": "¿Qué elementos se necesita para formar el triángulo del fuego?",
+        "type": "text_multi",
+        "maxPoints": 1,
+        "earnedPoints": 1,
+        "isCorrect": true,
+        "userAnswer": [
+          "Oxigeno",
+          "Combustible",
+          "Calor"
+        ],
+        "correctSampleAnswer": "1- Oxígeno, 2- Combustible, 3- Calor",
+        "explanation": "El triángulo del fuego está formado por tres componentes fundamentales: Oxígeno, Combustible y Calor.",
+        "reviewDetails": "Acierto: 3 respuestas válidas registradas."
+      },
+      {
+        "questionId": "q3",
+        "number": 3,
+        "prompt": "Enumere 3 fuentes (causas) de calor",
+        "type": "text_multi",
+        "maxPoints": 1,
+        "earnedPoints": 1,
+        "isCorrect": true,
+        "userAnswer": [
+          "Electricas",
+          "Mecanicas",
+          "Quimicas"
+        ],
+        "correctSampleAnswer": "1- Eléctricas, 2- Mecánicas, 3- Químicas",
+        "explanation": "Las principales fuentes de calor son eléctricas (cortocircuitos, sobrecargas), mecánicas (fricción) y químicas (reacciones exotérmicas).",
+        "reviewDetails": "Acierto: 3 respuestas válidas registradas."
+      },
+      {
+        "questionId": "q4",
+        "number": 4,
+        "prompt": "¿Puedo usar agua para combatir fuegos de causas eléctricas? Justifique su respuesta.",
+        "type": "text_single",
+        "maxPoints": 1,
+        "earnedPoints": 1,
+        "isCorrect": true,
+        "userAnswer": "No, porque es conductor de electricidad",
+        "correctSampleAnswer": "No, porque el agua es conductor de electricidad y causa electrocución.",
+        "explanation": "NUNCA se debe usar agua en equipos energizados porque el agua conduce la corriente y provocaría electrocución.",
+        "reviewDetails": "Acierto: incluye conceptos clave (no, conductor, electricidad)"
+      },
+      {
+        "questionId": "q5",
+        "number": 5,
+        "prompt": "Describa las tres clases de combustibles, indique 2 ejemplos de cada uno:",
+        "type": "text_multi",
+        "maxPoints": 1,
+        "earnedPoints": 1,
+        "isCorrect": true,
+        "userAnswer": [
+          "A Solidos madera",
+          "B Liquidos gasolina",
+          "C Electricos pc"
+        ],
+        "correctSampleAnswer": "a) A Sólidos: Madera, papel, cartón.\nb) B Líquidos y gases inflamables: Tiner, gasolina.\nc) C Eléctricos: Computadores, plancha.",
+        "explanation": "Clase A: Sólidos combustibles ordinarios. Clase B: Líquidos y gases inflamables. Clase C: Equipos eléctricos energizados.",
+        "reviewDetails": "Acierto: 3 respuestas válidas registradas."
+      },
+      {
+        "questionId": "q6",
+        "number": 6,
+        "prompt": "Indique las 4 reglas de un Plan de Emergencia General",
+        "type": "text_multi",
+        "maxPoints": 1,
+        "earnedPoints": 1,
+        "isCorrect": true,
+        "userAnswer": [
+          "Mantener la calma y alarma",
+          "Llamar al 911",
+          "Usar extintores",
+          "Evacuar"
+        ],
+        "correctSampleAnswer": "1) Mantener la calma y dar la voz de alarma\n2) Llamar al 911\n3) Usar extintores\n4) Evacuar ordenadamente",
+        "explanation": "Las 4 fases inmediatas: Calma/Alarma, Llamada de socorro (911), Mitigación inicial si es seguro, y Evacuación al punto de encuentro.",
+        "reviewDetails": "Acierto: 4 respuestas válidas registradas."
+      },
+      {
+        "questionId": "q7",
+        "number": 7,
+        "prompt": "¿En qué tiempo se reproduce el fuego en temperatura, volumen e intensidad?",
+        "type": "fill_blank",
+        "maxPoints": 1,
+        "earnedPoints": 1,
+        "isCorrect": true,
+        "userAnswer": "2",
+        "correctSampleAnswer": "2",
+        "explanation": "El fuego en condiciones adecuadas duplica su temperatura e intensidad aproximadamente cada 2 segundos.",
+        "reviewDetails": "Respuesta correcta: 2"
+      },
+      {
+        "questionId": "q8",
+        "number": 8,
+        "prompt": "Los extintores en POLVO QUÍMICO SECO: (Seleccione SI o NO para cada afirmación)",
+        "type": "grid_radio",
+        "maxPoints": 1,
+        "earnedPoints": 1,
+        "isCorrect": true,
+        "userAnswer": {
+          "manometro": "SI",
+          "corneta": "NO",
+          "clase_abc": "SI",
+          "elimina_brasa": "SI"
+        },
+        "correctSampleAnswer": "",
+        "explanation": "Los extintores de polvo químico seco tienen manómetro indicador de presión, manguera con boquilla (no corneta), son polivalentes ABC y sofocan la brasa.",
+        "reviewDetails": "Tienen manómetro: SI ✔ | Tiene corneta: NO ✔ | Es para fuegos clase ABC: SI ✔ | Elimina la brasa: SI ✔"
+      },
+      {
+        "questionId": "q9",
+        "number": 9,
+        "prompt": "Extintor de CO2 (Dióxido de Carbono): (Seleccione SI o NO para cada afirmación)",
+        "type": "grid_radio",
+        "maxPoints": 1,
+        "earnedPoints": 1,
+        "isCorrect": true,
+        "userAnswer": {
+          "corneta": "SI",
+          "dana_equipos": "NO",
+          "clase_bc": "SI"
+        },
+        "correctSampleAnswer": "",
+        "explanation": "El extintor de CO2 tiene una corneta difusora para evitar congelamiento de la piel, NO daña equipos electrónicos (es gas limpio) y es idóneo para fuegos B y C.",
+        "reviewDetails": "Tiene corneta difusora: SI ✔ | Daña equipos electrónicos: NO ✔ | Es para fuegos clase BC: SI ✔"
+      },
+      {
+        "questionId": "q10",
+        "number": 10,
+        "prompt": "¿Qué significan las siglas \"HAPA\" de operación de extintor?",
+        "type": "text_multi",
+        "maxPoints": 1,
+        "earnedPoints": 1,
+        "isCorrect": true,
+        "userAnswer": [
+          "Halar",
+          "Apuntar",
+          "Presionar",
+          "Abanicar"
+        ],
+        "correctSampleAnswer": "H: Halar (el pasador o seguro)\nA: Apuntar (a la base del fuego)\nP: Presionar (la palanca o percutor)\nA: Abanicar (de lado a lado)",
+        "explanation": "HAPA: Halar el seguro, Apuntar a la base de la llama, Presionar el percutor, Abanicar en abanico horizontal.",
+        "reviewDetails": "Acierto: 4 respuestas válidas registradas."
+      },
+      {
+        "questionId": "q11",
+        "number": 11,
+        "prompt": "¿Cómo calificaría el presente seminario y capacitación? (Haga un breve comentario)",
+        "type": "feedback",
+        "maxPoints": 0,
+        "earnedPoints": 0,
+        "isCorrect": true,
+        "userAnswer": "Excelente curso práctico",
+        "correctSampleAnswer": "",
+        "explanation": "Sección de retroalimentación de los participantes para mejora continua.",
+        "reviewDetails": "Comentario registrado. No aplica puntuación."
+      }
+    ]
+  },
+  {
+    "id": "sub-1728941000000",
+    "quizId": "seguridad-incendios-rtm",
+    "quizTitle": "EXAMEN DE SEGURIDAD CONTRA INCENDIOS",
+    "submittedAt": "2026-10-14T15:30:00.000Z",
+    "participantInfo": {
+      "empresa": "RTM INTERNACIONAL",
+      "fecha": "2026-10-14",
+      "nombre": "Erick Macías",
+      "cedula": "0928374651",
+      "cargo": "Técnico de Seguridad Industrial",
+      "correo": "erick.seguridad@empresa.com"
+    },
+    "score": 10,
+    "maxScore": 10,
+    "percentage": 100,
+    "correctCount": 10,
+    "incorrectCount": 0,
+    "isApproved": true,
+    "questionResults": [
+      {
+        "questionId": "q1",
+        "number": 1,
+        "prompt": "Indique 3 factores de seguridad que debe observar para prevención de incendio",
+        "type": "text_multi",
+        "maxPoints": 1,
+        "earnedPoints": 1,
+        "isCorrect": true,
+        "userAnswer": [
+          "Salidas de emergencia",
+          "Ubicación de extintores / PH / GCI",
+          "Mayor concentración de combustible"
+        ],
+        "correctSampleAnswer": "a) Salidas de emergencia\nb) Ubicación de extintores / PH / GCI\nc) Mayor concentración de combustible",
+        "explanation": "Se debe identificar salidas de emergencia despejadas, ubicación de extintores y control de concentración de combustible.",
+        "reviewDetails": "Acierto: 3 respuestas válidas registradas."
+      },
+      {
+        "questionId": "q2",
+        "number": 2,
+        "prompt": "¿Qué elementos se necesita para formar el triángulo del fuego?",
+        "type": "text_multi",
+        "maxPoints": 1,
+        "earnedPoints": 1,
+        "isCorrect": true,
+        "userAnswer": [
+          "Oxígeno",
+          "Combustible",
+          "Calor"
+        ],
+        "correctSampleAnswer": "1- Oxígeno, 2- Combustible, 3- Calor",
+        "explanation": "Triángulo del fuego: Oxígeno, Combustible y Calor.",
+        "reviewDetails": "Acierto: 3 respuestas válidas registradas."
+      },
+      {
+        "questionId": "q3",
+        "number": 3,
+        "prompt": "Enumere 3 fuentes (causas) de calor",
+        "type": "text_multi",
+        "maxPoints": 1,
+        "earnedPoints": 1,
+        "isCorrect": true,
+        "userAnswer": [
+          "Eléctricas",
+          "Mecánicas",
+          "Químicas"
+        ],
+        "correctSampleAnswer": "1- Eléctricas, 2- Mecánicas, 3- Químicas",
+        "explanation": "Fuentes de calor: eléctricas, mecánicas y químicas.",
+        "reviewDetails": "Acierto: 3 respuestas válidas registradas."
+      },
+      {
+        "questionId": "q4",
+        "number": 4,
+        "prompt": "¿Puedo usar agua para combatir fuegos de causas eléctricas? Justifique su respuesta.",
+        "type": "text_single",
+        "maxPoints": 1,
+        "earnedPoints": 1,
+        "isCorrect": true,
+        "userAnswer": "No, porque es conductor de electricidad",
+        "correctSampleAnswer": "No, porque el agua es conductor de electricidad y causa electrocución.",
+        "explanation": "NUNCA usar agua en equipos eléctricos.",
+        "reviewDetails": "Acierto: incluye conceptos clave (no, conductor, electricidad)"
+      },
+      {
+        "questionId": "q5",
+        "number": 5,
+        "prompt": "Describa las tres clases de combustibles, indique 2 ejemplos de cada uno:",
+        "type": "text_multi",
+        "maxPoints": 1,
+        "earnedPoints": 1,
+        "isCorrect": true,
+        "userAnswer": [
+          "A Sólidos (Madera, papel, cartón)",
+          "B Líquidos y gases inflamables (Tiner, gasolina)",
+          "C Eléctricos (Computadores, plancha)"
+        ],
+        "correctSampleAnswer": "a) A Sólidos (Madera, papel)\nb) B Líquidos y gases (Tiner, gasolina)\nc) C Eléctricos (Computadores, plancha)",
+        "explanation": "Clase A: Sólidos ordinarios. Clase B: Líquidos y gases. Clase C: Equipos eléctricos.",
+        "reviewDetails": "Acierto: 3 clases descritas correctamente."
+      },
+      {
+        "questionId": "q6",
+        "number": 6,
+        "prompt": "Indique las 4 reglas de un Plan de Emergencia General",
+        "type": "text_multi",
+        "maxPoints": 1,
+        "earnedPoints": 1,
+        "isCorrect": true,
+        "userAnswer": [
+          "Mantener la calma y dar la voz de alarma",
+          "Llamar al 911",
+          "Usar extintores",
+          "Evacuar"
+        ],
+        "correctSampleAnswer": "1) Mantener la calma y alarma, 2) Llamar al 911, 3) Usar extintores, 4) Evacuar",
+        "explanation": "Fases: Calma/Alarma, Socorro 911, Mitigación, Evacuación.",
+        "reviewDetails": "Acierto: 4 reglas completadas."
+      },
+      {
+        "questionId": "q7",
+        "number": 7,
+        "prompt": "¿En qué tiempo se reproduce el fuego en temperatura, volumen e intensidad?",
+        "type": "fill_blank",
+        "maxPoints": 1,
+        "earnedPoints": 1,
+        "isCorrect": true,
+        "userAnswer": "2",
+        "correctSampleAnswer": "2",
+        "explanation": "El fuego duplica intensidad cada 2 segundos en fase libre.",
+        "reviewDetails": "Respuesta correcta: 2"
+      },
+      {
+        "questionId": "q8",
+        "number": 8,
+        "prompt": "Los extintores en POLVO QUÍMICO SECO: (Seleccione SI o NO para cada afirmación)",
+        "type": "grid_radio",
+        "maxPoints": 1,
+        "earnedPoints": 1,
+        "isCorrect": true,
+        "userAnswer": {
+          "manometro": "SI",
+          "corneta": "NO",
+          "clase_abc": "SI",
+          "elimina_brasa": "SI"
+        },
+        "correctSampleAnswer": "Manómetro: SI | Corneta: NO | Clase ABC: SI | Brasa: SI",
+        "explanation": "PQS cuenta con manómetro, sin corneta, clase ABC y sofoca brasas.",
+        "reviewDetails": "Tienen manómetro: SI ✔ | Tiene corneta: NO ✔ | Es para fuegos clase ABC: SI ✔ | Elimina la brasa: SI ✔"
+      },
+      {
+        "questionId": "q9",
+        "number": 9,
+        "prompt": "Extintor de CO2 (Dióxido de Carbono): (Seleccione SI o NO para cada afirmación)",
+        "type": "grid_radio",
+        "maxPoints": 1,
+        "earnedPoints": 1,
+        "isCorrect": true,
+        "userAnswer": {
+          "corneta": "SI",
+          "dana_equipos": "NO",
+          "clase_bc": "SI"
+        },
+        "correctSampleAnswer": "Corneta: SI | Daña equipos: NO | Clase BC: SI",
+        "explanation": "CO2 tiene corneta, no daña equipos electrónicos y es clase BC.",
+        "reviewDetails": "Tiene corneta difusora: SI ✔ | Daña equipos electrónicos: NO ✔ | Es para fuegos clase BC: SI ✔"
+      },
+      {
+        "questionId": "q10",
+        "number": 10,
+        "prompt": "¿Qué significan las siglas \"HAPA\" de operación de extintor?",
+        "type": "text_multi",
+        "maxPoints": 1,
+        "earnedPoints": 1,
+        "isCorrect": true,
+        "userAnswer": [
+          "Halar",
+          "Apuntar",
+          "Presionar",
+          "Abanicar"
+        ],
+        "correctSampleAnswer": "Halar, Apuntar, Presionar, Abanicar",
+        "explanation": "H: Halar seguro, A: Apuntar a la base, P: Presionar percutor, A: Abanicar.",
+        "reviewDetails": "Acierto: 4 siglas correctas."
+      },
+      {
+        "questionId": "q11",
+        "number": 11,
+        "prompt": "¿Cómo calificaría el presente seminario y capacitación? (Haga un breve comentario)",
+        "type": "feedback",
+        "maxPoints": 0,
+        "earnedPoints": 0,
+        "isCorrect": true,
+        "userAnswer": "Excelente curso práctico y muy claro en el uso de extintores.",
+        "correctSampleAnswer": "",
+        "explanation": "Feedback del participante.",
+        "reviewDetails": "Comentario registrado. No aplica puntuación."
+      }
+    ]
+  }
+]
